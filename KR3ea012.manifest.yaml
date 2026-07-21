@@ -17,7 +17,7 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ea012_000.yaml, hash: 'sha256:4c16927751e06f0a93b87867fd2fca5f1dcfbe678178feeca138e8fbd6d1679f'}
+  - {seq: 0, filename: KR3ea012_000.yaml, hash: 'sha256:cdf0ccd0675a0ead0b6ebde8dd1b21dfdf1ed9c3dd6ce753ceaebc3d0f7b32c8'}
   - {seq: 1, filename: KR3ea012_001.yaml, hash: 'sha256:7dcbf01fcaf36870072be3c7c1fa9bc484c8f2de6909c261ed49a31abf7e26c7'}
   - {seq: 2, filename: KR3ea012_002.yaml, hash: 'sha256:ecbe7e591fb40962bd7bd9701455ac4bdc2031622f1d7e5d488b731436071245'}
   - {seq: 3, filename: KR3ea012_003.yaml, hash: 'sha256:810018aa5fb6e6b160620b6082415fa81d87b53297e727485c6b05c576fef9d4'}
@@ -32,7 +32,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ea012_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 1
   label: 序
@@ -798,7 +798,7 @@ table_of_contents:
   label: 解精微論篇第八十一太素佚
   type: section
   level: 2
-hash: sha256:01200c392a4f750946e4e743af65ad2019f6163f5556a9d289fd9d1ad03d198a
+hash: sha256:309be7afc1a85248542bad69df2b920b693c0c493b96b74b445e30c60bd9964c
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

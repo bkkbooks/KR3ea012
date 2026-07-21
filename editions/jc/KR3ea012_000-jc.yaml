@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR3ea012/jc/v1/juan/0
 seq: 0
-front:
+body:
   text: 序
   hash: sha256:6f47a97d45b03124f1d03c53deceed3aa01689a5e20ba55b84a8a76683bac1fd
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR3ea012_jc_000-d2.h1s1}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 素問紹識
   edition:
@@ -15,4 +12,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3ea012.xml
-hash: sha256:4c16927751e06f0a93b87867fd2fca5f1dcfbe678178feeca138e8fbd6d1679f
+hash: sha256:cdf0ccd0675a0ead0b6ebde8dd1b21dfdf1ed9c3dd6ce753ceaebc3d0f7b32c8
